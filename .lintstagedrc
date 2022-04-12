@@ -1,0 +1,7 @@
+{
+	"*.(ts|svelte|css|md|json)": [
+		"pnpm format",
+		"git add ."
+	],
+	"*.{ts,svelte}": "pnpm lint"
+}
