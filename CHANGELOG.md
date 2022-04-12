@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/davipon/conventional-commits-sveltekit/compare/v0.0.3...v0.0.4) (2022-04-12)
+
+
+### :truck: Chores
+
+* **dep:** update devDep and add husky install in prepare script ([82ccfb3](https://github.com/davipon/conventional-commits-sveltekit/commit/82ccfb315cc21b3515acd47de2d0ed9c30e370d5))
+
 ### [0.0.3](https://github.com/davipon/conventional-commits-sveltekit/compare/v0.0.2...v0.0.3) (2022-04-12)
 
 ### :truck: Chores
