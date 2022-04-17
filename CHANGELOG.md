@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/davipon/conventional-commits-sveltekit/compare/v0.0.5...v0.0.6) (2022-04-17)
+
+
+### :truck: Chores
+
+* **dep:** update dependencies ([0d76830](https://github.com/davipon/conventional-commits-sveltekit/commit/0d76830ed342fe94ca36556acf4fad590053309e))
+
 ### [0.0.5](https://github.com/davipon/conventional-commits-sveltekit/compare/v0.0.4...v0.0.5) (2022-04-14)
 
 ### :truck: Chores
