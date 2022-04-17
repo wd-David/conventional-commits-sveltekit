@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/davipon/conventional-commits-sveltekit/compare/v0.0.6...v0.0.7) (2022-04-17)
+
+
+### :truck: Chores
+
+* **lint-staged:** update .lintstagedrc ([3a584cd](https://github.com/davipon/conventional-commits-sveltekit/commit/3a584cd66c2d78c837556a90ada203c4f98088d7))
+
 ### [0.0.6](https://github.com/davipon/conventional-commits-sveltekit/compare/v0.0.5...v0.0.6) (2022-04-17)
 
 ### :truck: Chores
